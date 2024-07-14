@@ -156,7 +156,6 @@
  
 제 2조(개발 대상 기능)
 1) 아래 URL로 대체
-https://www.figma.com/design/1s1eHPowYTo0JfrEvrSmqg/%F0%9F%8C%8A-%EC%BB%A4%EB%A6%AC%EC%96%B4%EB%85%B8%ED%8A%B8_WAVLE?node-id=0-1&t=i0AWxlgELlRRpbxu-1
  
 제 3조(특수 기능)
 - GPT 활용
